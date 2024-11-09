@@ -1,5 +1,5 @@
 # BassRize-Online-Music-Player
-<img src="https://img.shields.io/github/issues/parikshit223933/BassRize-Online-Music-Player"> <img src="https://img.shields.io/github/forks/parikshit223933/BassRize-Online-Music-Player"> <img src="https://img.shields.io/github/stars/parikshit223933/BassRize-Online-Music-Player"> 
+<img src="https://img.shields.io/github/issues/parikshit223933/BassRize-Online-Music-Player"> <img src="https://img.shields.io/github/forks/parikshit223933/BassRize-Online-Music-Player"> <img src="[https://img.shields.io/github/stars/parikshit223933/BassRize-Online-Music-Player](https://kaushalpatil12.github.io/BassRize-Online-Music-Player/)"> 
 
 (https://kupatil.github.io/BassRize-Online-Music-Player/)
 
